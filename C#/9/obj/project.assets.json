@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\exercicios-de-algoritmos\\9\\9.csproj",
+      "projectUniqueName": "C:\\Users\\47417895867\\Desktop\\exercicios-de-algoritmos\\C#\\9\\9.csproj",
       "projectName": "9",
-      "projectPath": "C:\\Users\\47417895867\\Desktop\\exercicios-de-algoritmos\\9\\9.csproj",
+      "projectPath": "C:\\Users\\47417895867\\Desktop\\exercicios-de-algoritmos\\C#\\9\\9.csproj",
       "packagesPath": "C:\\Users\\47417895867\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\47417895867\\Desktop\\exercicios-de-algoritmos\\9\\obj\\",
+      "outputPath": "C:\\Users\\47417895867\\Desktop\\exercicios-de-algoritmos\\C#\\9\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\47417895867\\AppData\\Roaming\\NuGet\\NuGet.Config",

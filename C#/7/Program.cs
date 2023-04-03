@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine($"Digite um número:");
+float numero = float.Parse(Console.ReadLine());
+Console.WriteLine($"Seu dobro é {numero * 2}");
+Console.WriteLine($"Sua terceira parte é {numero / 3}");
