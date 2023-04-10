@@ -1,0 +1,15 @@
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\bin\Debug\net7.0\031.exe
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\bin\Debug\net7.0\031.deps.json
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\bin\Debug\net7.0\031.runtimeconfig.json
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\bin\Debug\net7.0\031.dll
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\bin\Debug\net7.0\031.pdb
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.csproj.AssemblyReference.cache
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.AssemblyInfoInputs.cache
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.AssemblyInfo.cs
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.csproj.CoreCompileInputs.cache
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.dll
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\refint\031.dll
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.pdb
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\031.genruntimeconfig.cache
+C:\Users\47417895867\Desktop\exercicios-de-algoritmos\C#\031\obj\Debug\net7.0\ref\031.dll
